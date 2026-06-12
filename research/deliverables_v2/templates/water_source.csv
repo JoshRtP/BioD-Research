@@ -1,0 +1,1 @@
+record_id,farm_id,evidence_ids,data_status,qa_status,water_source_id,geometry_id,source_type,use_types,permit_required,permit_status,metered_flag,basin_risk_class,sensitive_ecosystem_flag

@@ -1,0 +1,1 @@
+record_id,farm_id,reporting_period_id,evidence_ids,data_status,qa_status,lot_id,buyer_or_destination_id,commodity,harvest_date,transfer_date,volume_tonnes,traceability_type,origin_fields,supporting_document_number

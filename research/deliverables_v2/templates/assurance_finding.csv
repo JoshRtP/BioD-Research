@@ -1,0 +1,1 @@
+record_id,farm_id,reporting_period_id,evidence_ids,data_status,qa_status,finding_id,audit_date,assurance_provider,metric_ids,finding_type,finding_summary,corrective_action_due_date,corrective_action_status,closure_date

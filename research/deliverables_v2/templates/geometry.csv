@@ -1,0 +1,1 @@
+record_id,farm_id,evidence_ids,data_status,qa_status,geometry_id,geometry_type,geometry_file_uri,geometry_version,crs_epsg,capture_date,source_method,positional_accuracy_m,area_ha,topology_status,validation_status

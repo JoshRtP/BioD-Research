@@ -63,3 +63,7 @@ Because no approved scope memo was supplied, this release uses a conservative wo
 3. Use the crosswalk to configure program requirements; do not treat framework guidance as certification equivalence.
 4. Run stakeholder scoring and the pilot before fixing numeric improvement thresholds or making outcome claims.
 5. Recheck source versions at least annually and before every program release.
+
+## Version 2 farm-data specification
+
+A more granular specification of the exact farm-level records and fields needed to calculate and verify M01–M18 is available in [`../deliverables_v2/README.md`](../deliverables_v2/README.md). Version 1 remains the research recommendation; version 2 is its operational farm-data design.

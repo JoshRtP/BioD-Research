@@ -1,0 +1,1 @@
+record_id,farm_id,reporting_period_id,evidence_ids,data_status,qa_status,soil_cover_observation_id,field_id,crop_cycle_id,observation_date,method_version,living_cover_percent,residue_cover_percent,bare_soil_percent,observation_points_count,erosion_signs_present,erosion_sign_type

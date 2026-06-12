@@ -1,0 +1,1 @@
+record_id,farm_id,evidence_ids,data_status,qa_status,field_id,field_name,geometry_id,field_area_ha,slope_class,erosion_risk_class,soil_mapping_unit,adjacent_sensitive_feature_flag

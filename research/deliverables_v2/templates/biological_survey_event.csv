@@ -1,0 +1,1 @@
+record_id,farm_id,reporting_period_id,evidence_ids,data_status,qa_status,survey_event_id,geometry_id,survey_target,method_version,survey_start_datetime,effort_value,effort_unit,weather_or_site_conditions,taxon_scientific_name,detection_count,independent_validation_status

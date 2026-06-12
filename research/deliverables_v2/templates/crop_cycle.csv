@@ -1,0 +1,1 @@
+record_id,farm_id,reporting_period_id,evidence_ids,data_status,qa_status,crop_cycle_id,field_id,crop_name,variety_or_cultivar,planting_date,harvest_date,managed_area_ha,shared_area_flag,production_tonnes,tillage_system,preceding_crop_cycle_id,residue_management
