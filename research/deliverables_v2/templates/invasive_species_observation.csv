@@ -1,0 +1,1 @@
+record_id,farm_id,reporting_period_id,evidence_ids,data_status,qa_status,invasive_observation_id,habitat_polygon_id,observation_date,species_name,method_version,occupied_area_ha,cover_or_density,record_type,treatment_method,non_target_harm_flag,efficacy_percent

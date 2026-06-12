@@ -1,0 +1,1 @@
+record_id,farm_id,reporting_period_id,evidence_ids,data_status,qa_status,condition_observation_id,habitat_polygon_id,geometry_id,observation_date,method_version,indicator_name,indicator_value,indicator_unit,sampling_effort,reference_value,condition_score,disturbance_flags

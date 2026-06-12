@@ -1,0 +1,1 @@
+record_id,farm_id,reporting_period_id,evidence_ids,data_status,qa_status,water_quality_sample_id,water_source_id,sample_datetime,site_position,parameter,result_value,result_unit,method_or_lab,detection_limit,qa_flag,threshold_or_reference,exceedance_flag

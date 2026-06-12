@@ -1,0 +1,1 @@
+record_id,farm_id,reporting_period_id,evidence_ids,data_status,qa_status,incident_id,incident_type,incident_date,geometry_id,affected_area_ha,severity,safeguard_failure_flag,authority_notified_date,root_cause,corrective_action_status

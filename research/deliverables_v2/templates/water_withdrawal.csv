@@ -1,0 +1,1 @@
+record_id,farm_id,reporting_period_id,evidence_ids,data_status,qa_status,withdrawal_id,water_source_id,measurement_start_date,measurement_end_date,withdrawal_volume_m3,measurement_method,meter_start_reading,meter_end_reading,irrigated_field_ids,permit_limit_m3,exceedance_flag

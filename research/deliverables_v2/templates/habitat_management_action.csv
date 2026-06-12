@@ -1,0 +1,1 @@
+record_id,farm_id,reporting_period_id,evidence_ids,data_status,qa_status,management_action_id,habitat_polygon_id,action_type,action_description,due_date,completion_date,action_status,verification_method,cancel_or_delay_reason

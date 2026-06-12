@@ -1,0 +1,1 @@
+record_id,farm_id,reporting_period_id,evidence_ids,data_status,qa_status,inventory_transaction_id,transaction_date,transaction_type,product_trade_name,registration_number,quantity,quantity_unit,counterparty_or_destination,application_id,adjustment_reason

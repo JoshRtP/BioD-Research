@@ -1,0 +1,1 @@
+record_id,farm_id,reporting_period_id,evidence_ids,data_status,qa_status,scouting_id,crop_cycle_id,field_id,scouting_date,target_pest,sampling_method,sampling_effort,pest_measure,action_threshold,natural_enemy_measure,decision,nonchemical_action
