@@ -1,0 +1,19 @@
+metric_id,metric_name,taxonomy_id,metric_layer,provisional_treatment,ecological_relevance,brazil_biome_materiality,actionability,measurement_maturity,auditability,feasibility_cost,standard_alignment,sensitivity_timeliness,equity_rights,cobenefit_without_double_counting,weighted_score,evidence_confidence,stakeholder_score_status,pilot_status
+M01,Traceable sourcing coverage,B14,A safeguard,required safeguard,5,5,5,5,5,4,5,5,5,3,96.8,high,pending,pending
+M02,No post-cutoff natural-ecosystem conversion,B1,A safeguard,required safeguard,5,5,5,5,5,4,5,5,5,5,98.0,high,pending,pending
+M03,Legal/protected-area/riparian/wetland compliance,B2,A safeguard,required safeguard,5,5,4,4,5,3,5,4,5,5,90.2,high,pending,pending
+M04,"Rights, tenure, grievance and FPIC screen",B14,A safeguard,required safeguard,5,5,4,3,4,3,5,4,5,3,84.6,high,pending,pending
+M05,Threatened-species protection and incident screen,B6,A safeguard,required safeguard,5,5,4,3,4,3,5,3,4,3,82.6,high,pending,pending
+M06,Prohibited pesticide and contamination/buffer breach,B9,A safeguard,required safeguard,5,5,5,5,5,4,5,5,5,5,98.0,high,pending,pending
+M07,Native/semi-natural habitat extent and annual loss,B2,C state/condition,core universal,5,5,4,5,5,4,5,5,4,5,94.6,high,pending,pending
+M08,Habitat-management-plan implementation and condition,B3,C state/condition,core universal,5,5,5,3,4,3,5,3,4,5,86.2,medium,pending,pending
+M09,Riparian/wetland protection and restoration progress,B2/B5,C state/condition,core universal,5,5,5,4,5,3,5,4,4,5,91.6,high,pending,pending
+M10,Pesticide toxic-load trajectory and IPM,B9,B pressure/practice,core universal,5,5,5,4,4,4,5,5,4,4,92.0,medium,pending,pending
+M11,"Year-round soil cover, crop diversity and erosion risk",B11,B pressure/practice,core universal,4,5,5,4,4,4,5,5,4,5,88.6,medium,pending,pending
+M12,"Water-risk screen, withdrawal and quality incidents",B10,B pressure/practice,core universal/conditional,5,5,4,4,4,3,5,4,5,5,88.2,medium,pending,pending
+M13,Restoration survival and condition trajectory,B5,C state/condition,core conditional,5,5,5,3,4,3,5,3,4,5,86.2,medium,pending,pending
+M14,Landscape connectivity index,B4,C state/condition,core conditional,5,5,3,3,4,3,4,3,4,5,79.8,medium,pending,pending
+M15,Freshwater quality condition,B10,C state/condition,core conditional,5,5,3,4,4,2,4,3,4,5,80.2,medium,pending,pending
+M16,Pollinator or bird occupancy/functional diversity,B6,D biological response,leadership/pilot,5,4,3,3,3,2,3,2,4,4,69.6,medium,pending,pending
+M17,Soil-biota response,B11,D biological response,research/pilot,4,4,3,2,2,2,3,2,4,5,61.8,low,pending,pending
+M18,Invasive-species extent and control efficacy,B8,C state/condition,core conditional,4,4,5,3,4,3,3,4,4,4,76.4,medium,pending,pending

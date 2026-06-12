@@ -408,3 +408,9 @@ For each candidate metric, prepare a one-to-two-page specification covering:
 6. Build biome × commodity materiality profiles before ranking metrics.
 7. Draft metric specification sheets, then score and validate them with stakeholders.
 8. Pilot the provisional set before finalizing thresholds or making outcome claims.
+
+---
+
+## Execution package
+
+A desk-research execution of this plan was completed on 12 June 2026. The package is indexed in [`deliverables/README.md`](deliverables/README.md). It includes a populated priority cross-walk, Brazil context screen, metric specifications and scores, pilot protocol, provisional final recommendation, and explicit gates for the stakeholder, Brazilian legal/rights, and empirical work that cannot be completed from repository documents alone.
